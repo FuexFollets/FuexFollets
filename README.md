@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Make-change-directory
+- 🔭 I’m currently working on SMalgolib
 - 🌱 I’m currently learning rust!
 
 
