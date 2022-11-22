@@ -11,8 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on simstring
-- 🌱 I’m currently learning rust!
-
 
 
