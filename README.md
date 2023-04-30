@@ -11,7 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-<html>
-
-</html>
 ![](https://komarev.com/ghpvc/?username=Fuexfollets)
